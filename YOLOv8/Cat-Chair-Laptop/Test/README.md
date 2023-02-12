@@ -1,1 +1,1 @@
-# pictures for the model's predictive power
+# pictures for the predictive power of the model
