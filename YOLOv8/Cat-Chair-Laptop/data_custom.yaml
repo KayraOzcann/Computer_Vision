@@ -1,7 +1,0 @@
-train: path of training files
-val: path of validation files
-
-nc: number of classes
-
-names: ["class name", "class name", "class name"]
-
