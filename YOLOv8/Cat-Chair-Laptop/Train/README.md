@@ -1,1 +1,1 @@
-# images for Training
+# Training for Object Detection
