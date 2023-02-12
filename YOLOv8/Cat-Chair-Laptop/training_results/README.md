@@ -1,1 +1,1 @@
-# Results of Training
+# Training Results
