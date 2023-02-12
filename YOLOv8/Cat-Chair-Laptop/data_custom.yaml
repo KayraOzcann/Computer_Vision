@@ -1,0 +1,7 @@
+train: path of training files
+val: path of validation files
+
+nc: class number
+
+names: ["class name", "class name", "class name"]
+
